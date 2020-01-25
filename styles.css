@@ -1,0 +1,19 @@
+.jumbotron {
+    background-attachment: fixed;
+    background-image: url(https://www.lionheart-designs.com/inventory/jigsaw%20puzzles/Sports/University%20of%20Iowa%20jigsaw%20puzzle%2091369.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    color:whitesmoke;
+    font-family: 'Bangers';
+    text-shadow: 1px 1px 1px black;
+}
+
+.container{
+    font-family: Bangers;
+    font-display: bold;
+    align-items:stretch;
+    font-size: 32px;
+}
+.schedule{
+    font-size: 64px;
+}
